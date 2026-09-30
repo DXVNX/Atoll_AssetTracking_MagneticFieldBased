@@ -1,0 +1,4 @@
+experiment_id,model,feature_set,accuracy,balanced_accuracy,macro_f1,weighted_f1,model_size_kb,latency_median_ms,latency_p95_ms,n_test_windows,n_closed_set_windows,n_unseen_windows,unseen_label_count,status
+FINAL_ExtraTrees_body_xyz,extra_trees,body_xyz_magnitude,0.11267605633802817,0.06249266615338593,0.033937506985741946,0.0975244145073857,114246.7353515625,5.7111,9.338700000000005,364,355,9,2,FINAL_HOLDOUT
+FINAL_KNN_body_xyz,knn,body_xyz_magnitude,0.11549295774647887,0.08151875611350634,0.04992207443358193,0.10390304201296757,828.34765625,86.63055,88.79816,364,355,9,2,FINAL_HOLDOUT
+FINAL_MLP_body_xyz,mlp,body_xyz_magnitude,0.14084507042253522,0.15622238715325334,0.09998580414797739,0.14983290578702285,25.25390625,0.1104,0.292505,364,355,9,2,FINAL_HOLDOUT

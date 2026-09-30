@@ -1,0 +1,16 @@
+{
+  "acquired_at_utc": "2026-09-28T18:10:48.068532+00:00",
+  "archive_filename": "ujiindoorloc+mag.zip",
+  "archive_sha256": "f739144b10f5820d4623c3594030144a6189c7c1243606dcd42311f92b276cc4",
+  "archive_size_bytes": 1455359,
+  "dataset_name": "UJIIndoorLoc-Mag",
+  "doi": "10.24432/C5D311",
+  "license": "CC BY 4.0",
+  "source_url": "https://archive.ics.uci.edu/static/public/343/ujiindoorloc+mag.zip",
+  "test_public_count": 11,
+  "train_public_count": 270,
+  "trajectory_count": 281,
+  "uci_dataset_id": 343,
+  "unexpected_files": [],
+  "warnings": []
+}

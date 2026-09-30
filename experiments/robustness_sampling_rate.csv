@@ -1,0 +1,9 @@
+experiment_id,model,feature_set,corruption_type,corruption_level,seed,accuracy,balanced_accuracy,macro_f1,status,corruption_level_numeric
+ROB_sampling_rate_knn_1nn_manhattan_original,knn_1nn_manhattan,body_xyz_magnitude,sampling_rate,original,42,0.8241269971675821,0.7220109288782293,0.7027979889677298,COMPLETED,9.999999999999991
+ROB_sampling_rate_extra_trees_original,extra_trees,body_xyz_magnitude,sampling_rate,original,42,0.8181746162152012,0.6947158561053566,0.6871684632998075,COMPLETED,9.999999999999991
+ROB_sampling_rate_knn_1nn_manhattan_5_0,knn_1nn_manhattan,body_xyz_magnitude,sampling_rate,5.0,42,0.8237729449321628,0.730101661998306,0.7052208282736414,COMPLETED,5.0
+ROB_sampling_rate_extra_trees_5_0,extra_trees,body_xyz_magnitude,sampling_rate,5.0,42,0.8181736381703519,0.6920781078578802,0.6855426569618859,COMPLETED,5.0
+ROB_sampling_rate_knn_1nn_manhattan_2_0,knn_1nn_manhattan,body_xyz_magnitude,sampling_rate,2.0,42,0.7999956966026635,0.6873672006652632,0.6704248319519295,COMPLETED,2.0
+ROB_sampling_rate_extra_trees_2_0,extra_trees,body_xyz_magnitude,sampling_rate,2.0,42,0.7776131402281583,0.632854598124578,0.6319179810892743,COMPLETED,2.0
+ROB_sampling_rate_knn_1nn_manhattan_1_0,knn_1nn_manhattan,body_xyz_magnitude,sampling_rate,1.0,42,0.6430155861227173,0.4565399218630863,0.4318257235709715,COMPLETED,1.0
+ROB_sampling_rate_extra_trees_1_0,extra_trees,body_xyz_magnitude,sampling_rate,1.0,42,0.6625735489726616,0.4115590946953911,0.40700062015011296,COMPLETED,1.0

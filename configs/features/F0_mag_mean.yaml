@@ -1,0 +1,5 @@
+name: mag_mean
+schema_version: mag_mean@1
+dimension: 1
+uji_status: ENABLED
+

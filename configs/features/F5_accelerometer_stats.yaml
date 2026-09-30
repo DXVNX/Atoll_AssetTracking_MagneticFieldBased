@@ -1,0 +1,5 @@
+name: accelerometer_stats
+schema_version: accelerometer_stats@1
+dimension: 27
+uji_status: ENABLED
+

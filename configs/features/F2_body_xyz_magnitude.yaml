@@ -1,0 +1,5 @@
+name: body_xyz_magnitude
+schema_version: body_xyz_magnitude@1
+dimension: 36
+uji_status: ENABLED
+

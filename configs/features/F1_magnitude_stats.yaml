@@ -1,0 +1,5 @@
+name: magnitude_stats
+schema_version: magnitude_stats@1
+dimension: 9
+uji_status: ENABLED
+

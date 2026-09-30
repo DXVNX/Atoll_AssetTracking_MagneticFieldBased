@@ -1,0 +1,5 @@
+name: body_magnetic_accelerometer
+schema_version: body_magnetic_accelerometer@1
+dimension: 63
+uji_status: ENABLED
+

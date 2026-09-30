@@ -1,0 +1,27 @@
+experiment_id: FINAL_KNN_body_xyz
+name: "Frozen final candidate: body-XYZ Manhattan 1-NN"
+dataset:
+  id: ujiindoorloc_mag
+  path: data/external/ujiindoorloc_mag
+target:
+  column: label
+window:
+  length_s: 2.0
+  stride_s: 1.0
+preprocessing:
+  scaler: none
+features:
+  name: body_xyz_magnitude
+  schema_version: body_xyz_magnitude@1
+evaluation:
+  strategy: saved_stratified_group_2fold_development_then_explicit_final_holdout
+  split_manifest: data/external/ujiindoorloc_mag/manifests/development_group_folds.csv
+  group_column: trajectory_id
+model:
+  name: knn
+  parameters:
+    n_neighbors: 1
+    weights: distance
+    metric: manhattan
+seed: 42
+notes: Frozen from development evidence only; public test remains locked.

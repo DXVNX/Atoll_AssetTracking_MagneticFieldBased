@@ -1,0 +1,9 @@
+{
+  "scope": "train_public only",
+  "segments_with_both_directions": 18,
+  "body_opposite_direction_centroid_distance_mean": 38.551762717284255,
+  "body_opposite_direction_centroid_distance_median": 38.314140170673014,
+  "world_opposite_direction_centroid_distance_mean": 13.528909390232386,
+  "world_opposite_direction_centroid_distance_median": 11.36862256434499,
+  "world_better_segment_count": 17
+}

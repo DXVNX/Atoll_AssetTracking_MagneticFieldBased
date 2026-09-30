@@ -1,0 +1,62 @@
+[
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_body_xyz_00.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_body_xyz_01.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_body_xyz_02.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_body_xyz_03.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_body_xyz_04.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_mag_imu_00.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_mag_imu_01.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_mag_imu_02.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_mag_imu_03.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_mag_imu_04.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_world_expanded_00.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_world_expanded_01.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_world_expanded_02.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_world_expanded_03.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  },
+  {
+    "config": "configs\\experiments\\classical\\CLS_qda_world_expanded_04.yaml",
+    "error": "ValueError: y has only 1 sample in class seg_82b7c2c8f0c7, covariance is ill defined."
+  }
+]

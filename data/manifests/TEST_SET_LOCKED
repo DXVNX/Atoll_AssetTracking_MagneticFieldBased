@@ -1,0 +1,2 @@
+Public test trajectories require explicit allow_final_test=True or --final-test access.
+They must not be used for development, preprocessing fitting, tuning, or model selection.

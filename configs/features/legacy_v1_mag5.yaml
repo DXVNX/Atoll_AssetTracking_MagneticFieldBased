@@ -1,0 +1,5 @@
+name: legacy_v1_mag5
+schema_version: legacy_v1_mag5@1
+dimension: 5
+uji_status: DISABLED
+reason: Requires the historical custom preprocessing magnitude_smooth column.

@@ -1,0 +1,11 @@
+experiment_id,model,feature_set,corruption_type,corruption_level,seed,accuracy,balanced_accuracy,macro_f1,status,corruption_level_numeric
+ROB_dropout_knn_1nn_manhattan_0,knn_1nn_manhattan,body_xyz_magnitude,dropout,0.0,42,0.8241269971675821,0.7220109288782293,0.7027979889677298,COMPLETED,0.0
+ROB_dropout_extra_trees_0,extra_trees,body_xyz_magnitude,dropout,0.0,42,0.8181746162152012,0.6947158561053566,0.6871684632998075,COMPLETED,0.0
+ROB_dropout_knn_1nn_manhattan_0_05,knn_1nn_manhattan,body_xyz_magnitude,dropout,0.05,42,0.8237807692909566,0.7237410763170298,0.7023739400111071,COMPLETED,0.05
+ROB_dropout_extra_trees_0_05,extra_trees,body_xyz_magnitude,dropout,0.05,42,0.8171251740919832,0.6870606354698564,0.6810117106173503,COMPLETED,0.05
+ROB_dropout_knn_1nn_manhattan_0_1,knn_1nn_manhattan,body_xyz_magnitude,dropout,0.1,42,0.8209806268876265,0.7223506832862072,0.6992892858595623,COMPLETED,0.1
+ROB_dropout_extra_trees_0_1,extra_trees,body_xyz_magnitude,dropout,0.1,42,0.8146790839240724,0.6825134171797025,0.6774406351434483,COMPLETED,0.1
+ROB_dropout_knn_1nn_manhattan_0_2,knn_1nn_manhattan,body_xyz_magnitude,dropout,0.2,42,0.8174811824171009,0.7150247498333228,0.6928443610425362,COMPLETED,0.2
+ROB_dropout_extra_trees_0_2,extra_trees,body_xyz_magnitude,dropout,0.2,42,0.8097810353191557,0.6641014664109552,0.658993169905622,COMPLETED,0.2
+ROB_dropout_knn_1nn_manhattan_0_3,knn_1nn_manhattan,body_xyz_magnitude,dropout,0.3,42,0.8199302067195593,0.7158621173418614,0.6900843933479132,COMPLETED,0.3
+ROB_dropout_extra_trees_0_3,extra_trees,body_xyz_magnitude,dropout,0.3,42,0.806286481072876,0.6541731823993726,0.6461712507166123,COMPLETED,0.3

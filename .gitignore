@@ -1,0 +1,9 @@
+raw/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+results/runs/
+*.pt
+*.joblib
